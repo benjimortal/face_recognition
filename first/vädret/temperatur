@@ -1,0 +1,10 @@
+temperatur = 25
+
+kolla om temp är lika som temperature!
+
+om temp är lika som temperature:
+    gå ut och ta badkläder med dig!
+om temp är mer än temperature:
+    ta med dig en flaska vatten och badkläder!
+om temp är mellan 20- 29:
+    det är dags för att bada och ta med dig vatten flaska!

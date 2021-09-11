@@ -1,0 +1,17 @@
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 700
+FPS = 300
+BALL_SIZE = (5, 30)
+WHITE = (155, 205, 200)
+BLACK = (0, 10, 200)
+RED = (240, 100, 80)
+GREEN = (10, 200, 10)
+BLUE = (0, 100, 250)
+COLORS = [WHITE, BLACK, RED, GREEN, BLUE]
+Thistle = (216,191,216)
+LightC = (224,255,255)
+Gold = (240,205,10)
+Ivory = (255,255,240)
+BGC = [Thistle, LightC, Gold, Ivory]
+
+MAX_RADIUS = 40
